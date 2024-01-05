@@ -2,6 +2,8 @@
 
 Repository to get familiar with NRF hardware and Zephyr
 
+More information here: https://academy.nordicsemi.com/courses/nrf-connect-sdk-fundamentals/
+
 ## Hardware
 Hardware used for exeperiments is development board nRF7002-DK
 https://www.nordicsemi.com/Products/Development-hardware/nRF7002-DK
