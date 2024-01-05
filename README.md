@@ -1,4 +1,4 @@
-#nRF Connect SDK Fundamentals
+# nRF Connect SDK Fundamentals
 
 Repository to get familiar with NRF hardware and Zephyr
 
